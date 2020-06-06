@@ -1,0 +1,4 @@
+mnist train dataset is too large to upload at github 
+link below-|
+
+     https://www.kaggle.com/oddrationale/mnist-in-csv
